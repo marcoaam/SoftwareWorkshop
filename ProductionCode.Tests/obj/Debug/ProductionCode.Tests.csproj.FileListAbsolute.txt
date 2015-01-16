@@ -1,0 +1,13 @@
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\ProductionCode.Tests.dll
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\ProductionCode.Tests.pdb
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\nunit.framework.dll
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\ProductionCode.exe
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\ProductionCode.pdb
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\nunit.framework.xml
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\obj\Debug\ProductionCode.Tests.csprojResolveAssemblyReference.cache
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\obj\Debug\ProductionCode.Tests.dll
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode.Tests\obj\Debug\ProductionCode.Tests.pdb
+C:\Users\marco_000\Documents\Visual Studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\Moq.dll
+C:\Users\marco_000\Documents\Visual Studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\Moq.xml
+C:\Users\marco_000\Documents\Visual Studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\marco_000\Documents\Visual Studio 2013\Projects\Day2\ProductionCode.Tests\bin\Debug\Rhino.Mocks.xml

@@ -1,0 +1,6 @@
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode\bin\Debug\ProductionCode.exe.config
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode\bin\Debug\ProductionCode.exe
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode\bin\Debug\ProductionCode.pdb
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode\obj\Debug\ProductionCode.csprojResolveAssemblyReference.cache
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode\obj\Debug\ProductionCode.exe
+c:\users\marco_000\documents\visual studio 2013\Projects\Day2\ProductionCode\obj\Debug\ProductionCode.pdb
